@@ -1,0 +1,17 @@
+{
+    "name": "yesevaone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Jovanny Lemonad"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/yesevaone-bower.git"
+    },
+    "description": "Yeseva One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
